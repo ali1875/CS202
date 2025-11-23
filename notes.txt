@@ -1,1 +1,2 @@
 "These are my lecture notes." 
+"Added a new line from the cloned folder." 
